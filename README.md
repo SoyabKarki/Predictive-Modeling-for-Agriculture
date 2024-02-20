@@ -1,6 +1,6 @@
 ## Predictive Modeling for Agriculture
 
-This project aims to build a multi-class Logistic Regression model to predict categories of "crop" with a F1 score of more than 0.5.
+This project aims to build a multi-class Logistic Regression model to predict categories of "crop" with an F1 score of more than 0.5.
 
 ### Introduction
 
