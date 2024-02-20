@@ -14,11 +14,11 @@ The dataset used in this project, soil_measures.csv, contains information about 
 
 ### Project Structure
 
-Data Preparation: The dataset is loaded into a pandas DataFrame, and initial data checks are performed to ensure data quality.
-Data Splitting: The data is split into training and test sets to train and evaluate the model.
-Feature Selection: We predict the "crop" type using each feature individually to identify the most influential features.
-Multicollinearity Check: Correlation analysis is performed to detect and handle multicollinearity among features.
-Final Model Training and Evaluation: The final model is trained using the selected features, and its performance is evaluated using the F1 score metric.
+- Data Preparation: The dataset is loaded into a pandas DataFrame, and initial data checks are performed to ensure data quality.
+- Data Splitting: The data is split into training and test sets to train and evaluate the model.
+- Feature Selection: We predict the "crop" type using each feature individually to identify the most influential features.
+- Multicollinearity Check: Correlation analysis is performed to detect and handle multicollinearity among features.
+- Final Model Training and Evaluation: The final model is trained using the selected features, and its performance is evaluated using the F1 score metric.
 
 
 ### Requirements
